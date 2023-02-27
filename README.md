@@ -1,0 +1,3 @@
+# README
+
+Umijs max template
